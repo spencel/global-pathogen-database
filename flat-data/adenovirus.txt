@@ -1,0 +1,21 @@
+Brasil (Florianópolis)	Untyped	Treated Wastewater			1.0000			50	13000000		Schlindwein et al., 2010
+Brasil (Florianópolis)	Untyped	Sludge			1.0000			46000000	1200000000		Schlindwein et al., 2010
+Brazil	HAdV C, D and F (40, 41)	Raw Sewage			0.6420			170	23000		Prado et al., 2011
+Ghana (Accra)	Untyped	Treated Wastewater	16	20	0.8000						Silverman et al., 2013
+Italy (Central)	Untyped	Raw Sewage			0.9600			3300000000			La Rosa et al., 2010
+Italy (Central)	Untyped	Treated Wastewater			0.7600						La Rosa et al., 2010
+Italy (Pisa)	Untyped	Raw Sewage	52	52	1.0000			616000000			Carducci and Verani, 2013
+Italy (Pisa)	HAdV2, HAdV31, HAdV45	Treated Wastewater	47	52	0.9000			6020000			Carducci and Verani, 2013
+Japan	Untyped	Raw Sewage			1.0000			110000			He and Jiang, 2005
+Japan (Tokyo)	Total	Raw Sewage			1.0000			85000			Haramoto et al., 2007
+Japan (Tokyo)	HadV F	Raw Sewage			1.0000			67000			Haramoto et al., 2007
+Morocco	HAdV B and D	Treated Wastewater	11	22	0.4550	2	ICC-PCR				Amdiouni et al., 2012
+New Zealand (Auckland)	HadV total	Wastewater			1.0000			18700	4600000		Dong et al., 2010
+New Zealand (Auckland)	HadV F	Wastewater			1.0000			4630	259000		Dong et al., 2010
+New Zealand	HAdV, ΗΑdV F	Raw Sewage	37	37	1.0000	11		52000			Hewitt et al., 2013
+Norway	untyped	Treated Wastewater	59	64	0.92			21.5			Grøndahl-Rosado et al., 2014
+Spain (Barcelona)	untyped	Raw Sewage	NR						38700000		Bofill Mas et al., 2006
+Sweden (Gothenburg)	untyped	Raw Sewage	NR					330000	190000		Hellmér et al., 2014
+USA (Cincinnati)	untyped	Sludge			1.0000			850	54000	FFUs	Williams and Hurst, 1988
+USA	untyped	Raw Sewage			1.0000						Bibby and Peccia, 2013
+USA	HAdV-C and -B	Sludge			1.0000						Bibby and Peccia, 2013
