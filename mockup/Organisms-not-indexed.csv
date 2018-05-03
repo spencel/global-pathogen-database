@@ -1,0 +1,6 @@
+CommonName,Type,Family,Subfamily,Genus,Species,Genome type,Gram stain,Genome Length (bp)
+rotavirus,virus,reoviridae,sedoreovirinae,rotavirus,rotavirus a,dsRNA,not a bacterium,18555
+vibrio cholerae,bacteria,vibrionaceae,vibrionaceae,vibrio,cholerae,dsDNA,gram-negative,2961149
+giardia,protist,hexamitidae,giardiinae,giardia,lamblia,dsDNA,not a bacterium,12000000
+bladder fluke,helminth,schistosomatidae,no subfamily,schistosoma,haematobium,dsDNA,not a bacterium,385000000
+HIV,virus,retroviridae,orthoretrovirinae,lentivirus,human immunodeficiency virus 1,(+)ssRNA,not a bacterium,9719
