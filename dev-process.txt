@@ -1,0 +1,12 @@
+Install git
+source: https://git-scm.com/
+
+Install Node.js
+source: https://nodejs.org/en/
+
+Create a package.json file
+cli: npm init
+source: https://docs.npmjs.com/getting-started/creating-node-modules
+
+Install babel
+cli: npm install --save-dev babel-cli

@@ -1,0 +1,24 @@
+{
+  "name": "global-pathogen-database",
+  "version": "1.0.0",
+  "description": "Global Water Pathogens Database Project at SDSU",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "scripts": {
+    "test": "node npm-scripts/test",
+    "start": "node npm-scripts/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencel/global-pathogen-database.git"
+  },
+  "author": "Spencer Lank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencel/global-pathogen-database/issues"
+  },
+  "homepage": "https://github.com/spencel/global-pathogen-database#readme"
+}
